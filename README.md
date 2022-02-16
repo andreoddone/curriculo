@@ -1,1 +1,1 @@
-# curriculo André Castanheira Oddone
+# curriculo André Castanheira Oddone só com HTML
